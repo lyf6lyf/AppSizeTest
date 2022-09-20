@@ -24,7 +24,7 @@ namespace MyControls
         public static readonly DependencyProperty MyProperty4Property = DependencyProperty.Register(
             "MyProperty4",
             typeof(string),
-            null,
+            null, // NULL!
             new PropertyMetadata(""));
     }
 }
