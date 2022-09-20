@@ -120,10 +120,13 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Class1 - Copy.cs" />
+    <Compile Include="Class2.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="CustomControl1.cs" />
     <Compile Include="CustomControl2.cs" />
+    <Compile Include="CustomControl3.cs" />
+    <Compile Include="CustomControl5.cs" />
+    <Compile Include="CustomControl4.cs" />
     <Compile Include="MyUserControl1.xaml.cs">
       <DependentUpon>MyUserControl1.xaml</DependentUpon>
     </Compile>
