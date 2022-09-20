@@ -1,0 +1,2 @@
+MainPackage=C:\Users\yifli\source\repos\AppSizeTest\WctProj\bin\x64\Release\WctProj_1.0.0.0_x64.msix
+SymbolPackage=C:\Users\yifli\source\repos\AppSizeTest\WctProj\obj\x64\Release\Symbols\WctProj_1.0.0.0_x64.appxsym

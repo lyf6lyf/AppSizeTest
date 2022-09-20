@@ -1,0 +1,2 @@
+MainPackage=C:\Users\yifli\source\repos\AppSizeTest\TestProj\bin\x64\Release\TestProj_1.0.0.0_x64.msix
+SymbolPackage=C:\Users\yifli\source\repos\AppSizeTest\TestProj\obj\x64\Release\Symbols\TestProj_1.0.0.0_x64.appxsym
